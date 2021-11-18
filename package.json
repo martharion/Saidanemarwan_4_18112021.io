@@ -1,0 +1,21 @@
+{
+  "name": "la_chouette_agence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./public/style.css --style compressed",
+    "prefix": "postcss ./style.css --use autoprefixer -d ./prefixed",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martharion/Saidanemarwan_4_18112021.io.git"
+  },
+  "author": "SaidaneMarwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martharion/Saidanemarwan_4_18112021.io/issues"
+  },
+  "homepage": "https://github.com/martharion/Saidanemarwan_4_18112021.io#readme"
+}
