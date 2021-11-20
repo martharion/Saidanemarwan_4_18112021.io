@@ -1,12 +1,12 @@
 Liste des 10 optimisations à réaliser pour améliorer le site : 
 
-1) Rajout d'un langage à la balise html.
+1) Rajout d'une langue à la balise html.
 
 2) Remplissage de la balise meta description.
 
 3) Indexation du site.
 
-4) Mise en place de Content Delivery Network pour les sources css extèrieurs.
+4) Changement du contraste de certaines couleurs ne respectant pas les normes minimum du WCAG.
 
 5) Suppression des contenus invisible/dupliqués et liens superflues.
 
@@ -19,3 +19,7 @@ Liste des 10 optimisations à réaliser pour améliorer le site :
 9) Optimisation pour l'utilisation de lecteur d'écran.
 
 10) Changement des titres de pages.
+
+11) Agrandissement de la taille de certaines polices.
+
+12) Changement de la balise meta keywords.
