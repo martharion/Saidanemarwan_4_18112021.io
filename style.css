@@ -635,6 +635,10 @@ p {
     font-size: 11px;
 }
 
+.enlarged-text {
+    font-size: 15px;
+}
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
